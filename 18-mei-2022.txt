@@ -70,4 +70,5 @@ List rekomendasi extention for vscode
 9) PHP IntelliSense, untuk autoclompete pada php
 10) Theme one dark pro, 
 
+dikerjakan pada jam 20:00-22:30
 
