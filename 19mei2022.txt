@@ -1,0 +1,41 @@
+What i learn today
+
+19 Mei 2022
+
+Belajar dari video, 
+judul : Apa itu GIT dan GITHUB
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Git dan Github berbeda dan dapat berjalan secara independen
+--Git dan Github termasuk VCS atau Version Control System.
+--VCS adalah sebuah sistem yang dapat memonitoring atau melacak
+  perubahan pada source code
+--Problem yang dapat diselesaikan dengan VCS, Untuk mempermudah
+  mengelola file kita. Mempermudah dalam berkolaborasi. Dan untuk
+  Github dapat digunakan untuk pamer source code.
+--Dapat mengetahui siapa yang merubah dan kapan diubah pada source
+  code
+--Dapat kembali ke versi sebelumnya dari source code kita.
+--Macam macam VCS Git, subversion(svn), mercurial, CVS.
+--Git adalah sebuah VCS terdistribusi untuk mengelola perubahan
+  file di dalam folder pembuat git sama dengan pembuat linux
+--Folder pada Git disebut dengan repository/repo
+--Riwayat perubahan file disimpan menggunakan serangkaian commit
+--Setiap commit terdapat hash sebagai penanda dari commit tersebut
+--Setiap commit akan tercatat siapa yang merubah dan kapan diubah
+--Branch adalah cabang yang dilakukan ketika kita ingin membuat
+  fitur atau perubahan pada source code tapi masih belum yakin.
+  Jadi branch digunakan untuk mencoba fitur baru tanpa mengganggu
+  cabang utama. Bisa juga digunakan untuk kolaborasi
+--Github adalah cloud VCS dan menggunakan github tidak harus mengin
+  stall GIT
+--macam macam cloud VCS github, gitlab, bitbucket
+
+
+
+Belajar dari video, 
+judul : Bekerja dengan Github
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Membuat akun github
+--Belajar membuat repository
