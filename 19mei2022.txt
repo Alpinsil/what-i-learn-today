@@ -39,3 +39,11 @@ Creator : Sandhika Galih (Web Programming UNPAS)
 
 --Membuat akun github
 --Belajar membuat repository
+
+Belajar dari video, 
+judul : Github Branch
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--ada master branch dan branch tambahan tanpa mengganggu jalur utama
+--Branching adalah membuat branch tanpa menganggu master branch.
+--Merge atau merging pengabungan branch ke branch utama
