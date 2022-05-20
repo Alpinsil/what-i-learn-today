@@ -1,7 +1,7 @@
 What i learn today
 
 19 Mei 2022
-
+===================================================================
 Belajar dari video, 
 judul : Apa itu GIT dan GITHUB
 Creator : Sandhika Galih (Web Programming UNPAS)
@@ -31,8 +31,10 @@ Creator : Sandhika Galih (Web Programming UNPAS)
   stall GIT
 --macam macam cloud VCS github, gitlab, bitbucket
 
+===================================================================
+===================================================================
 
-
+===================================================================
 Belajar dari video, 
 judul : Bekerja dengan Github
 Creator : Sandhika Galih (Web Programming UNPAS)
@@ -40,6 +42,10 @@ Creator : Sandhika Galih (Web Programming UNPAS)
 --Membuat akun github
 --Belajar membuat repository
 
+===================================================================
+===================================================================
+
+===================================================================
 Belajar dari video, 
 judul : Github Branch
 Creator : Sandhika Galih (Web Programming UNPAS)
@@ -47,3 +53,51 @@ Creator : Sandhika Galih (Web Programming UNPAS)
 --ada master branch dan branch tambahan tanpa mengganggu jalur utama
 --Branching adalah membuat branch tanpa menganggu master branch.
 --Merge atau merging pengabungan branch ke branch utama
+
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Github Fork
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Github Fork adalah metode untuk menduplikat repo orang lain dan
+  berbeda dengan clone
+--jembatan antara repo original dan duplikatnya
+--Berkontribusi pada repo orang lain
+
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Bekerja dengan GIT
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--GIT based on CLI (Command Line Interface)
+--GIT adalah salah satu software VCS
+--Belajar instalasi GIT pada Windows
+--Perintah dalam git
+	git init untuk menginisialisasi folder kita menjadi repo git
+	git add <file(s)> untuk menambah file ke repo git
+	git status untuk mengecek perubahan pada repo git kita
+	git config untuk mengkonfigurasi git
+	git branch untuk membuat branch pada git
+	git help untuk mengetahui cara penggunaaan perintah git
+--3 Area pada repo git
+	working tree tempat menulis code
+	staging area tempat menyimpan perubahan sementara. cara memasukkan ke 
+	staging area adalah dengan menggunakan git add
+	history tempat perubahan repo disimpan
+--Mempraktekkan penggunaan git seperti git init, git config, git add dan git
+  commit
+--harus git add file setiap ada perubahan atau menambahkan file baru
+--git log untuk melihat history dari git apa saja yang telah dilakukan
+--git log -3 untuk melihat 3 perubahan terakhir
+--git log -- <nama file> untuk mencari history perubahan yang terjadi dan berkai
+  tan dengan file tersebut
+--git checkout untuk mengembalikan ke history sebelumnya dengan cara
+--git checkout <5 char awal pada hash> -- <nama file> untuk mengembalikan hanya
+  file tertentu. Dan akan masuk ke stagging area dan harus di commit
+
