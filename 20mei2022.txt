@@ -1,0 +1,25 @@
+What i learn today
+
+20 Mei 2022
+===================================================================
+Belajar dari video, 
+judul : Git Branch Merge
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Latihan pengaplikasian branch pada git dengan cli
+--git commit -am {msg} untuk commit file yang dimodified
+--Setiap commit pasti terhubung ke suatu branch
+--head adalah pointer untuk menentukan branch mana yang aktif
+--git log --all --decorate --oneline --graph adalah perintah untuk
+ menampilkan log git dengan satu garis dalam graph seperti di graph
+--alias <name of alias>="<command to create alias>"
+--git checkout <nama branch> untuk pindah ke branch lain
+--cara menghapus branch adalah git branch -d <nama_branch>
+--git branch --merged untuk mengecek file branch mana saja yang
+  sudah di merge
+
+===================================================================
+===================================================================
+Belajar dari google, to rename branch. pertama checkout atau pindah
+ke branch yang ingin di rename. kedua gunakan perintah 
+git branch -m <new_name>

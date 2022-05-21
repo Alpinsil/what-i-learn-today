@@ -1,0 +1,35 @@
+What i learn today
+
+21 Mei 2022
+===================================================================
+Belajar dari video, 
+judul : Git Merge Conflict
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--ketika ada perubahan di baris yang sama pada branch yang berbeda
+  maka harus dilakukan manual resolve untuk mengatasi hal tersebut
+  dengan memilih bagian mana saja yang ingin digunakan dan bagian
+  mana saja y ang ingin dibuang.
+--setelah selesai bisa menggunakan perintah git commit -am "<msg>"
+  untuk menyimpan atau men-commit perubahan
+--jika git checkout ke suatu commit maka head atau pointer tidak
+  akan mengarah ke branch, tapi akan mengarah ke posisi commit
+  yang di checkout
+--jika ingin memilih suatu commit dan melanjutkan dari posisi ter
+  sebut bisa dilakukan dengan git branch <nama_branch> pada posisi
+  tersebut lalu git checkout pada branch yang baru dibuat
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Git Remote
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--remote adalah duplikat dari repo yang kita punya
+
+===================================================================
+===================================================================
+Belajar dari google, cara membuat permanent alias di git
+pergi ke C:\Program Files\Git\etc\profile.d\aliases.sh
+edit file di aliases.sh lalu save as admin

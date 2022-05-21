@@ -100,4 +100,3 @@ Creator : Sandhika Galih (Web Programming UNPAS)
 --git checkout untuk mengembalikan ke history sebelumnya dengan cara
 --git checkout <5 char awal pada hash> -- <nama file> untuk mengembalikan hanya
   file tertentu. Dan akan masuk ke stagging area dan harus di commit
-

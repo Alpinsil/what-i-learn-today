@@ -2,3 +2,6 @@ Playlist belajar node.js by web Programming UNPAS
 
 TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA by 
 Programmer Zaman Now
+
+Panduan Front End Web Developer di 2022
+Web Programming UNPAS
