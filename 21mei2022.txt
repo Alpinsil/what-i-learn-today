@@ -27,6 +27,19 @@ judul : Git Remote
 Creator : Sandhika Galih (Web Programming UNPAS)
 
 --remote adalah duplikat dari repo yang kita punya
+--git clone <url repo github> untuk menduplikat repo kita ke local
+--git push untuk mengirim hasil perubahan di local ke repo di github
+--cara mengirim repo dari local ke github
+  1) buat repo baru di github, 
+  2) jangan centang readme
+  3) lakukan perintah sesuai yang ada di halaman web yang ditam
+     pilkan github
+  4) lakukan push
+--git fetch untuk mengecek git yang diremote atau github sudah sam
+  pai mana
+--jika ada 2 perubahan atau lebih pada file yang sama dan terjadi
+  konflik. Maka perlu dilakukan git pull dan meresolved masalah
+  secara manual
 
 ===================================================================
 ===================================================================
