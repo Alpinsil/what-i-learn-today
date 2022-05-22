@@ -1,0 +1,11 @@
+What i learn today
+
+22 Mei 2022
+===================================================================
+Nemu di google,
+--git remote -v untuk melihat list origin apa saja yang tersedia
+--git fetch untuk mencocokkan repo di local dan repo yang ada di
+  github
+--git push -u <nama_origin> <nama branch> untuk update repo di local
+  ke cloud atau github. 
+
