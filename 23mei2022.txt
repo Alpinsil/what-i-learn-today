@@ -50,6 +50,42 @@ judul : Git Rebase
 Creator : Sandhika Galih (Web Programming UNPAS)
 
 --Belajar cara mengatur git workflow kita
+--perbedaan merge dan rebase
+--macam macam merge. Fast forward merge, merge yang ideal dimana
+  biasanya menggabungkan branch master dan branch yang lain tanpa
+  adanya confilct antar branch atau direct path
+--merge commit yaitu apabila branch yang satu dan branch yang lain
+  memiliki perbedaan commit. jadi untuk menyatukan harus di merge
+  dan membuat commit baru. disebut juga merge commit atau three way
+  merge
+--rebase yaitu menyamakan posisi start branch master dan branch lain
+  agar ketika di merge, yang terjadi adalah fast-forward merge.
+  dilakukan agar lebih rapi dan tidak membingungkan ketika menger
+  jakan proyek besar
+--cara mengerjakan satu repo secara bersama sama atau beberapa orang
+  atau disebut kolaborasi
+ 	1) pada github masuk ke menu setting
+	2) klik collaborators
+	3) masukkan nama collaborators dan click add collaborators
+--Jika mengerjakan repo github secara kolaborasi. Pastikan sebelum
+  melakukan push. Disarankan lakukan pull terlebih dahulu untuk 
+  mengecek atau melihat apakah ada perubahan pada repo di github
+--cara melakukan rebase. 
+	1) pindah ke cabang yang ingin di rebase
+	2) setelah itu ketik command git rebase <nama_branch>
+	3) setelah itu lakukan rebase lagi di branch master
+ 	   dengan langkah yang sama dan command git rebase <nama_branch>
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Git & WEB HOSTING
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--cara menghubungkan github dan web hosting
+--workflow dari local==>github==>web hosting (==> = push)
+
 ===================================================================
 ===================================================================
 
