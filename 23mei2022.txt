@@ -1,0 +1,55 @@
+What i learn today
+
+23 Mei 2022
+
+===================================================================
+Belajar dari video, 
+judul : Remote branch
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Belajar cara saat kita melakukan clone pada repo milik orang
+  dan melakukan perubahan di dalamnya. Lalu kita ingin mengusulkan
+  perubahan tersebut ke repo sumber atau si pemilik repo. Belajar
+  pull request
+--Usahakan jika ingin melakukan pada repo yang di clone buatlah 
+  branch terlebih dahulu. Biarkan repo master sama seperti repo
+  aslinya. Jika ingin mengusulkan perubahan yang dipull branchnya
+--command git checkout -b <nama_branch>. untuk pindah ke suatu
+  branch. Jika branch tidak ada maka akan dibuatkan branch baru
+  dan pindah ke branch tersebut. Dua langkah dalam satu command
+--git push <nama_remote> --delete <nama_branch> untuk menghapus
+  branch di github dari git
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Git Ignore
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--pada git bash, command git . adalah command untuk membuka vscode
+  di folder tersebut
+--langkah-langkah dalam melakukan git ignore. Pertama buat file
+  .gitignore pada repo kita. Lalu ketik nama file yang ingin
+  ignore.
+--jika ingin ignore folder tinggal tulis <nama_folder>/
+--jika ingin ignore dengan pola bisa dilakukan dengan cara
+  seperti ini. Contoh, jika ingin ignore semua file .exe maka bisa
+  dengan perintah *.exe
+--https://github.com/github/gitignore, untuk mengecek file
+  apa saja yang sebaiknya masuk kedalam gitignore. mulai dari
+  framework tertentu atau yang lainnya
+--gitignore.io. website alternatif untuk mengecek file apa saja
+  yang harus diignore dalam suatu framework atau bahasa pemrograman
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Git Rebase
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Belajar cara mengatur git workflow kita
+===================================================================
+===================================================================
+

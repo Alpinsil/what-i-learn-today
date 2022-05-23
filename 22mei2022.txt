@@ -9,3 +9,34 @@ Nemu di google,
 --git push -u <nama_origin> <nama branch> untuk update repo di local
   ke cloud atau github. 
 
+===================================================================
+Belajar dari video, 
+judul : github pages ngobar12 web hosting gratis
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--github bisa digunakan sebagai web hosting untuk frontend atau
+  static web.
+--nama repo untuk website harus bertemplate seperti ini
+  <username_github>.github.io
+--jika ingin menjadikan repo yang lain menjadi github pages. maka
+  ke menu setting lalu klik pages pilih branch yang ingin dijadikan
+  github pages. url akan dari github pages akan berbentuk seperti
+  ini https://<username_github>.github.io/<nama_repo>
+
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Multiple remotes
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--belajar fork ke repo orang lain,
+--git clone <url> untuk clone repo kita atau repo orang ke local
+--git remote add <nama-remote> <url> untuk menambah remote baru ke 
+  suatu url
+--git fetch <nama-remote>. Untuk mensinkronisasi repo git di local
+  dan di cloud
+
+===================================================================
+===================================================================
