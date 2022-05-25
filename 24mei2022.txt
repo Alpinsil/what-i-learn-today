@@ -1,0 +1,210 @@
+What i learn today
+
+24 Mei 2022
+
+===================================================================
+Belajar dari video, 
+judul : 03.Project - 4 _ fake news detection using machine 
+	learning _ ML Project _ Data Science Project
+Creator :codejay
+
+--Belajar cara membuat fake news detection
+--tahap awal install jupyter notebook dengan perintah
+  pip install notebook dan untuk membuka jupyter notebook. ketik
+  di terminal jupyter notebook
+--library yang digunakan pandas, numpy, sklearn
+###Belum selesai###
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Html dasar_Pendahuluan Html
+Creator : Web Programming Unpas
+
+--Html adalah hypertext markup language dan html bukan merupakan
+  bahasa pemrograman. markup sama dengan tag.
+--Pencipta html adalah berners-lee directur dari w3c.
+--w3c bertujuan untuk mengembangkan dan mengatur standarisasi 
+  protocol untuk web development. Berfokus pada html & css
+--Setiap browser memiliki standarisasi yang berbeda tapi tidak 
+  terlalu jauh berbeda
+--www.evolutionoftheweb.com. Website untuk melihat sejarah perkem
+  bangan teknologi website.
+--Html untuk  membuat struktur sebuah halaman. CSS untuk menghias
+  suatu halaman. Javascript bisa hampir segalanya.
+--Contoh ilustrasi. HTML seperti kerangka pada mannequin, css untuk
+  menghias dan javascript agar mannequin bisa berinteraksi.
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Html dasar_Hello World
+Creator : Web Programming Unpas
+
+--Belajar menulis html dimulai dari hello world
+--save file dengan ekstensi html. contoh seperti <nama_file>.html
+--<!DOCTYPE html> <!-- #membuat html versi 5 -->
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Html dasar code editor
+Creator : Web Programming Unpas
+
+--instalisasi sublime text 3
+--cara menggunakan sublime text 3 untuk menulis code
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Html dasar Tag
+Creator : Web Programming Unpas
+
+--belajar tentang tag
+--ada tag pembuka dan tag penutup
+--tag yang dapat disimpan di tag head. tag title, style for css,
+  script for javascript, meta for metadata
+--tag yang dapat disimpan di tag body, ada h1-h6, img gambar dan
+  masih banyak lagi. script bisa juga di dalam body
+--tag komentar pada html <!-- komentar -->
+--struktur sebuah tag <namatag atribut="value/nilai">
+--atribut global pada tag accesskey, class, id, dir, lang, style,
+  tabindex, title
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Html dasar Paragraf
+Creator : Web Programming Unpas
+
+--belajar tentang tag paragraf
+--tag paragraf adalah <p>..</p>
+--tag br untuk menambah baris baru
+--tag ht untuk menambah garis horizontal
+--tag b untuk cetak tebal, tag i cetak miring, tag u untuk garis
+  bawah
+--tag strong untuk memberikan penekanan
+--tag em untuk memberikan penekanan juga tapi lebih kuat strong
+--ctrl + / untuk membuat komentar
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Heading pada html
+Creator : Web Programming Unpas
+
+--heading ada h1-h6
+--h1 heading paling besar dan h6 paling kecil
+--penggunaan digunakan sesuai kebutuhan seperti judul menggunakan
+  h1 dan isi content bisa dengan h5
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : List pada html
+Creator : Web Programming Unpas
+
+--ada tiga macam list, 
+	1) ol ordered list terurut bisa 1,2,3 a,b,c i,ii,iii
+	2) ul unordered list tidak terurut
+	3) dl definisition list judul dan penjelasan
+ 	  contoh tag dt sebagai judul dan tag dd sebagai 
+	  penejelasan tag dd akan otomatis diberi indentasi
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : html hyperlink
+Creator : Web Programming Unpas
+
+--menggunakan tag a
+--ada tiga macam link 
+	1) eksternal link
+	2) internal link
+	3) page anchor untuk pindah ke bagian halaman tertentu
+	# pada href untuk pindah pada page yang sama
+	dengan cara memberikan id pada suatu tag
+--pada tag a ada attribut target ada dua __self untuk membuka di tab
+  yang sama __blank untuk membuka di tab baru
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : html image
+Creator : Web Programming Unpas
+
+--menyimpan gambar dengan tag <img src="dirgambar">
+--atribut img, ada 
+	1) src = sumber file
+	2) alt = untuk menampilkan alternate text ketika gambar
+		tidak tampil
+	3) title = memberikan judul ketika meletakkan cursor pada
+		gambar
+	4) width = mengatur lebar
+	5) height = mengatur tinggi bisa dengan px atau %
+
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : tabel html
+Creator : Web Programming Unpas
+
+--tabel ada baris dan kolom dengan tag table
+--tag tr atau table row atau baris
+--tag td atau table data  atau kolom
+--atribut pada tabel ada border, cellspacing, cellpadding, colspan
+  rowspan
+===================================================================
+===================================================================
+
+
+===================================================================
+Belajar dari video, 
+judul : tabel merging
+Creator : Web Programming Unpas
+
+--colspan untuk menggabungkan secara horizontal atau kolom
+--colspan untuk menggabungkan secara vertikal atau baris
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : html dasar_form
+Creator : Web Programming Unpas
+
+--untuk mengelola input yang dimasukkan oleh user
+--contoh form seperti halaman depan facebook
+--elemen dalam form ada input, textarea, select, button, label
+--input ada text,password,radio, checbox,submit,reset,button
+--label for . for untuk siapa label ini ditujukan dan harus beri
+  id yang sama pada fornya 
+--pada radiobutton harus diberi atribut name yang sama agar hanya
+  bisa memilih salah satu dan penanda bahwa beberapa radiobutton
+  ada dalam satu grup
+===================================================================
+===================================================================
+
+
+===================================================================
+Belajar dari video, 
+judul : html dasar_form(lanjutan)
+Creator : Web Programming Unpas
+
+--text area, lebih besar dari text biasanya untuk menulis deskripsi
+--dropdown bisa menggunakan select yang didalamnya ada option
+--untuk merapikan tampilan bisa diakali dengan menggunakan table
+
+===================================================================
+===================================================================
