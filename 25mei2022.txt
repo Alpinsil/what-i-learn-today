@@ -1,0 +1,174 @@
+What i learn today
+
+25 mei 2022
+
+===================================================================
+Belajar dari video, 
+judul : 01 css dasar
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--css adalah cascading stylesheet
+--css adalah mekanisme sederhana yang mengatur style
+--template untuk css adalah www.csszengarden.com
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : 02 anatomi css
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--selector { property: value; } contoh h1 { color: blue; }
+--selector digunakan untuk memilih dan memanipulasi elemen spesifik
+  pada html. bisa berdasarkan tag html, id, class bahkan pola
+--website referensi untuk property css
+	1) https://developer.mozilla.org/en-US/docs/Web/CSS/Reference?retiredLocale=id
+	2) css tricks almanac
+===================================================================
+===================================================================
+ 
+===================================================================
+Belajar dari video, 
+judul : 03 Penempatan css
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--embed <style></style> di dalam file tepatnya di head
+--inline di dalam tag
+--external terpisah dengan membuat file .css lalu di link ke html
+===================================================================
+===================================================================
+
+
+===================================================================
+Belajar dari video, 
+judul : 04 Font styling
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--font-famaily, font-size, font-weight, font-variant, font-style,
+  line-height
+--font-size px, %, em
+--perbedaan italic dan oblique. Jika font memiliki style italic
+  maka akan berganti dari normal ke italic tapi jika tidak memiliki
+  style italic maka system akan memaksa font menjadi miring dengan
+  oblique
+--shorthand untuk property font
+  selector { font: font-style font-variant font-weight font-size 
+	   	   line-height font-family }
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : 05 text styling
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--berkaitan dengan warna, jarak indentasi. posisi seperti center
+  justify dan lainnya
+--color memberikan warna pada tulisan
+--text-align mengatur format paragraf/teks
+--text-indent memberi indentasi pada paragraf/teks
+--text-decoration mengatur dekorasi pada teks
+--text-transform mengubah jenis huruf menjadi huruf besar, kecil,
+  kapital
+--color bisa dengan nama warna, hexadecimal, rgb
+--color picker untuk mencari warna yang diinginkan
+--text transform untuk mengubah tulisan ke lower case, camel case
+  dan lainnya
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Background pada css
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--background-color, background-image, background-position
+--background-image: url(path_image)
+--website untuk background image, 
+https://www.toptal.com/designers/subtlepatterns/
+--background-repeat untuk mengulang background atau tidak
+--background-position untuk menempatkan background di posisi ter
+  tentu
+--shorthand background
+--background: color background-image position background-repeat
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Selector CSS
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--digunakan pada css untuk mengenali sebuah elemen html yang akan 
+  diberikan style
+--macam macam selector elemen html, id, class, complex selector
+--contoh jika ada a di dalam li dan di dalam ul
+--bisa menggunakan selector ul li a. Spasi berfungsi sebagai dan
+--jika menggunakan id, maka selector diawali dengan tanda #
+--contoh id="nama" #nama
+--jika menggunakan class, maka selector diawali dengan tanda .
+--contoh class="nama" .nama
+--sebuah elemen html hanya boleh memiliki 1 id
+--setiap halaman hanya boleh memiliki 1 elemen dengan id tersebut
+--dapat digunakan sebagai penanda halaman untuk link
+--digunakan juga untuk javascript
+--sebaiknya tidak digunakan untuk CSS (lebih baik gunakan class) 
+
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Pseudo class
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Kelas semu yang dimiliki oleh sebuah elemen HTML, yang membuat 
+  kita dapat mendefinisikan style pada "keadaan tertentu" dari ele
+  men tersebut
+--contoh pseudo class. 
+	1) :link style default pada sebuah link (a yg memiliki href)
+	2) :hover, style ketika kursor berada diatas sebuah link
+	3) :active keitka link di klik
+	4) :visited ketika link telah dikunjungi
+--contoh penggunaan <nama_selector>:<nama_pseudo_class>
+--pseudo class lain
+	1) :first-child memilih elemen pertama dari parent
+	2) :last-child memilih elemen terakhir dari parent 
+	3) :nth child memilih elemen ke (n) dari parent
+--pseudo class lain
+	1) :first-of-type memilih elemen pertama yang ditemui
+	2) :last-of-type memilih elemen terakhir yang ditemui
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : inheritance
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Pewarisan pada suatu properti
+--contoh kasus pada tag a. harus menggunakan color:inherit
+  agar a mau mewarisi properti warna dari parentnya
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Specificity
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--Jika selectornya sama maka selector pertama akan tertimpa oleh
+  selector kedua. misal selector pertama p mengubah warna jadi bir
+  dan selector kedua p mengubah warna jadi merah. maka tulisan akan
+  berubah warna jadi merah.
+--bobot html 
+	element seperti h1, p, dan tag lainnya bernilai 1
+	class bernilai 10
+	id bernilai 100
+	inline bernilai 1000
+--jadi nilai terbesar akan dipakai dalam selector css. contoh ada 
+  tag p color blue dan .p color red maka yang akan dipakai class. 
+  karena bobot class lebih besar dari elemen tag html.
+--kalkulator specificity specificity.keegan.st
+===================================================================
+===================================================================
