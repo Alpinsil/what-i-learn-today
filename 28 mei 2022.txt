@@ -1,0 +1,128 @@
+What i learn today
+
+28 mei 2022
+
+===================================================================
+Belajar dari video, 
+judul : Css layouting #0 Intro
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--CSS layouting adalah teknik css untuk mengatur posisi dan meletak
+  kan elemen dan mengatur perilaku pada object css.
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Display
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--CSS layouting ada tiga box model, overflow, potitioning
+--Pemahanan dasar display overflow
+--belajar tentang display, span dan div tidak memiliki arti hanya 
+  digunakan untuk mengelompokkan elemen atau tag
+--div biasanya untuk mengelompokkan beberapa bagian seperti header
+  konten footer dan lainnya sedangkan span digunakan untuk text
+--default display dari div adalah blok sedangkan span inline
+--value display ada 4 inline, inline-block, block, none
+--inline, lebar dan tinggi elemennya sebesar konten yang ada di 
+  dalamnya. Kita tidak dapat mengatur tinggi dan lebar dari elemen
+  inline. img display inline tapi bisa kita atur lebar dan tingginya
+--inline-block, tidak ada elemen secara default yang memiliki display
+  inline-block. Perilaku dasar seperti inline. Elemen inline-block dapat
+  kita atur tinggi dan lebarnya
+--block, yang secara default menambahkan baris baru ketika dibuat
+--none, digunakan untuk menghilangkan suatu elemen
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Dimensi dan overflow
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--untuk mengatur dimensi ada dua yaitu width dan height
+--satuannya ada px, %, in, cm, mm, pt, pc
+--overflow untuk mengatur properti yang keluar dari parentnya atau
+  melebihi parentnya
+--overflow ada empat visible, auto, hidden, scroll
+--auto maka akan otomatis ada scroll jika konten melebihi kontainernya
+--Perbedaan scroll dan auto adalah jika scroll mau kontennya cukup
+  di kontainer ataupun lebih, scroll akan tetap ada berbeda dengan
+  auto jika konten cukup maka scroll akan hilang
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : CSS Box Model
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--CSS box model mendefinisikan 'kotak' yang dihasilkan oleh sebuah
+  elemen, lalu menampilkannya sesuai dengan format visualnyas
+--CSS box model terdiri dari 4 komponen margin, border, padding,
+  dan content  
+--w3schools.com css_boxmodel
+--margin area transparan di luar kotak
+--padding area transparan di dalam kotak
+--border batas disekeliling margin dan padding
+--content isi atau konten sebenarnya di dalam box, bisa berupa teks
+  atau gambar
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Margin
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--margin area transparan di luar kotak
+--jika ingin mengecek margin di web browser tinggal klik kanan
+  ke bagian computed dan akan kelihatan ukuran marginnya
+--shorthand untuk margin. margin: atas kanan bawag kiri;. contoh
+  margin: 50px 40px 30px 20px. jadi margin atas 50px kanan 40px 
+  bawah 30px dan kiri 20px.
+--jika dua nilai maka nilai pertama mewakili atas dan bawah
+  nilai kedua kiri dan kanan
+--jika tiga nilai, nilai pertama mewakili atas, nilai kedua kiri
+  dan kanan, lalu nilai ketiga mewakili bawah
+--overlapping margin ketika ada dua buah margin dari dua object.
+  contoh object a margin-bottom 100px dan object b margin-top 50px.
+  maka margin yang terbesar yang akan diambil. (berlaku untuk vertikal)
+  jika horizontal maka akan ditambah
+--keanehan ketika menggunakan inline-block. div yang sejajar akan
+  memiliki jarak walaupun width 0px. cara menghilangkan jaraknya
+  adalah menghilangkan spasi atau enter pada div di html
+--negative margin akan membuat kotak bergerak berlawanan arah. 
+  jika top biasanya akan menjauh dari atas jika diberi nilai 
+  negatif maka akan bergerak ke atas
+--margin auto akan berefek pada horizontal yaitu margin-left dan
+  margin-right. Jika auto maka object akan otomatis berada di tengah
+  tengah parent nya
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : Padding dan border
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--padding area transparan di dalam kotak
+--konsep sama seperti margin tapi yang berefek di dalam kontainer
+  atau kotak dengan content.
+--padding tidak bisa diberi nilai negatif dan auto
+--padding mempengarungi ukuran kontainer.
+--contoh jika width dan height kontainer 200px dan diberi padding
+  atas bawah kanan kiri 100px. Maka ukuran kontainer akan menjadi
+  300px. Berlaku juga untuk border
+--border batas disekeliling margin dan padding
+--border: width style warna
+--Total dimensi kontainer adalah = width+height+padding+border
+--ukuran yang diatur biasanya hanya lebar dan tinggi mengikuti 
+  banyaknya kontent
+--box-sizing: border=box; agar ukuran kotaknya tetap walaupun ditam
+  bah padding dan border
+===================================================================
+===================================================================
+
+ 
