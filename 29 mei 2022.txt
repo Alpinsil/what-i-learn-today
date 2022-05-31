@@ -7,7 +7,25 @@ Belajar dari video,
 judul : Box model CSS reset
 Creator : Sandhika Galih (Web Programming UNPAS)
 
---
+--CSS reset yang dapat kita gunakan untuk mengatur ulang nilai
+  nilai dari margin dan padding suatu object. contoh seperti body
+  h1, p1 dan lainnya yang memiliki margin dan padding default
+--tujuan reset agar kita punya kendali penuh terhadap object kita
+  terutama di posisi
+--cara efektif dengan menggunakan teknik css reset mayer web
+===================================================================
+===================================================================
+
+
+===================================================================
+Belajar dari video, 
+judul : Membuat website sederhana
+Creator : Sandhika Galih (Web Programming UNPAS)
+
+--jangan mengambil gambar sembarangan di internet karena bisa jadi
+  ada copyrightnya. 
+--referensi web untuk gambar gratisan unsplash.com
+--selesai membuat website sederhana dan post di github
 ===================================================================
 ===================================================================
 

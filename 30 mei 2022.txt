@@ -1,0 +1,71 @@
+What i learn today
+
+29 mei 2022
+
+===================================================================
+Belajar dari video, 
+judul : Responsive Website Landing Page Design | Title 
+	(Creative Nature) - Only Using CSS & HTML
+Creator : Coding Snow
+
+--Mengikuti tutorial dan upload ke github
+--https://alpinsil.github.io/css_layouting/landing-page.html
+===================================================================
+===================================================================
+
+
+===================================================================
+Belajar dari video, 
+judul : CSS Layouting Float
+Creator : Sandhika Galih (Wep Programming UNPAS)
+
+--Float merupakan properti pada CSS untuk mengatur posisi sebuah
+  elemen. Sebuah elemen dapat dipaksa untuk berada di sebelah kiri
+  atau kanan dari parent/pembungkusnya dengan menggunakan properti ini
+--value float none, left, right
+--dua tipe object ada normal flow dan out-of flow
+--contoh normal flow jika elemen dengan display blok akan ada oto
+  matis berada di bawah sedangakan inline disamping
+--out-of flow adalah seperti penempatan z index. dan float adalah
+  out-of-flow
+--Penggunaan float text wrapping membuat teks mengelilingi gambar
+  atau elemen lain. 
+--image gallery membuat serangkaian gambar menjadi gallery. 
+--multi-column layout membuat halaman memiliki beberapa kolom
+--trik agar tulisan benar benar ditengah, line-height = ukuran tinggi
+  container atau parent.
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : CSS Layouting Clear
+Creator : Sandhika Galih (Wep Programming UNPAS)
+
+--Masalah pada float, karena object atau elemen yang diberi property
+  float keluar dari flow. Maka kontainer tidak akan menghitung 
+  property yang diberi float. sehingga terjadi yang namanya property
+  collapse
+--cara mengatasi ada tiga, menggunakan property overflow, div kosong
+  menggunakan teknik micro clearfix
+--dengan overflow, cara dengan menambahkan overflow:auto;. Maka con
+  tainer akan menganggap object yang diberi overflow ada
+--clear, untuk memberhentikan float, properti ada left right both.
+  ditaruh diakhir
+--dengan metode clearfix bisa nyari di google
+
+===================================================================
+===================================================================
+
+===================================================================
+Belajar dari video, 
+judul : CSS Layouting Membuat Website Sederhana Part2
+Creator : Sandhika Galih (Wep Programming UNPAS)
+
+--Untuk Membuat Mockup bisa menggunakan balsamiq mockups
+
+===================================================================
+===================================================================
+
+
+ 
